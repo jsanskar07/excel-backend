@@ -1,6 +1,6 @@
 module excel-merge
 
-go 1.25.5
+go 1.25
 
 require (
 	github.com/richardlehane/mscfb v1.0.4 // indirect
